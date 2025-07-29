@@ -1,4 +1,3 @@
-
 # Predicting Kidney Disease: Automation Approach
 This project focuses on predicting kidney disease using a machine learning approach, emphasizing automation in the model development and evaluation process. The core of this project is a Jupyter Notebook that demonstrates data preprocessing, model training, hyperparameter tuning, and comprehensive model evaluation.
 
